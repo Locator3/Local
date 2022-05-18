@@ -1,4 +1,5 @@
 {
   "showAds": false,
-  "showOpenAd": false
+  "showOpenAd": false, 
+  "version": "1.0"
 }
