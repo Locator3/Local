@@ -1,5 +1,5 @@
 {
-  "showAds": false,
-  "showOpenAd": false, 
-  "version": "8.2"
+  "showAds": true,
+  "showOpenAd": true, 
+  "version": "8.3"
 }
