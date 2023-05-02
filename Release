@@ -1,4 +1,5 @@
 {
+ "AppOpenAd": false,
   "showAds": true,
   "showOpenAd": false, 
   "version": "9.9"
